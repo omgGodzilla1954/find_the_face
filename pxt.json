@@ -1,5 +1,6 @@
 {
     "name": "if a deaf person gets arrested and handcuffed, does that take their freedom of speech?",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
